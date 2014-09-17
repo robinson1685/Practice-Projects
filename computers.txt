@@ -1,0 +1,7 @@
+Dell Computers Inc.:Inspiron 15 Touch:6:500:Intel Core i5:CD/DVD+-RW:Windows 8.1:649.99
+Dell Computers Inc.:Inspiron 17:4:500:Intel Core i3:CD/DVD+-RW:Windows 7:549.99
+Dell Computers Inc.:Alienware 18:16:1000:Intel Core i7:Dual Layer Blu-ray:Windows 7:2999.99
+Acer Computers Inc.:Aspire AT3-600:6:2000:Intel Core i5:BlueRay:Windows 8:599.99
+Apple Computers Inc.:MacBook Pro:4:500:Intel Core i5:None:Mac OS x:1199.00
+Apple Computers Inc.:21.5-inch iMac:8:1000:Intel Core i5:USB SuperDrive:Mac OS x:1299.00
+Apple Computers Inc.:27-inch iMac:8:1000:Intel Core i5:USB SuperDrive:Mac OS x:1799.00
